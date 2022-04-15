@@ -1,0 +1,1 @@
+Este é um arquivo modelo só pra treinar um push na master direto pro github.
